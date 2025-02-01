@@ -5,9 +5,9 @@ import { LuGraduationCap } from "react-icons/lu";
 import corpcommentImg from "@/public/corpcomment.png";
 import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
-import liveprep from "@/public/liveprep.PNG";
+ import liveprep from "@/public/liveprep.jpg";
 import chatbot from "@/public/chatbot.jpeg";
-import stayeazee from "@/public/stayeazee.PNG";
+import stayeazee from "@/public/stayeasy.jpg";
 
 export const links = [
   {
